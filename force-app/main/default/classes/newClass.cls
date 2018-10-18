@@ -7,6 +7,7 @@ public class newClass{
     public void test(){
         for(String a: map1.values() ){
             system.debug('test');
+            Integer i = 10 + 3;
 
         }
     }
